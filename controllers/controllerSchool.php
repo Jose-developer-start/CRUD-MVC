@@ -21,7 +21,7 @@ class control
 	{
 		$data = new school();
 		//update ID
-		$data->id = $_POST['id'];
+		$data->id = isset($_POST['id']) ? $_POST['id'] : '';
 		$data->name = $_POST['name'];
 		$data->email = $_POST['email'];
 		$data->pass = $_POST['pass'];
