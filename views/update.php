@@ -9,7 +9,7 @@
         </div>
         <div class="form-group"><input name="email" type="text" class="form-control" placeholder="Email" value="<?php echo $getData->Correo ?>">
         </div>
-        <div class="form-group"><input name="pass" type="text" class="form-control" placeholder="Password" value="<?php echo $getData->Clave ?>">
+        <div class="form-group"><input name="pass" type="password" class="form-control" placeholder="Password" value="<?php echo $getData->Clave ?>">
         </div>
         <div class="form-group"><input name="photo" type="text" class="form-control" placeholder="Photo" value="<?php echo $getData->Foto ?>">
         </div>

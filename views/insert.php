@@ -5,7 +5,7 @@
     <form action="?option=add_data" method="POST">
         <div class="form-group"><input name="name" type="text" class="form-control" placeholder="Name"></div>
         <div class="form-group"><input name="email" type="text" class="form-control" placeholder="Email"></div>
-        <div class="form-group"><input name="pass" type="text" class="form-control" placeholder="Password"></div>
+        <div class="form-group"><input name="pass" type="password" class="form-control" placeholder="Password"></div>
         <div class="form-group"><input name="photo" type="text" class="form-control" placeholder="Photo"></div>
         <input type="submit" class="btn btn-primary btn-block">
 

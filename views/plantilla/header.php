@@ -27,7 +27,7 @@
                   <a class="nav-link" href="?option=add"><i class='bx bxs-add-to-queue bx-sm'></i>ADD</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="?option=add"><i class='bx bxl-github bx-sm'></i>PROYECT</a>
+                  <a class="nav-link" href="https://github.com/Jose-developer-start/CRUD-MVC" target="_blank"><i class='bx bxl-github bx-sm'></i>PROYECT</a>
                 </li>
               </ul>
             </div>
